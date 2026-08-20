@@ -1,0 +1,8 @@
+{
+    "pokemon-pets.rewards.saveCooldownSeconds": 2000,
+    "pokemon-pets.rewards.pushGold": 20,
+    "pokemon-pets.rewards.saveGold": 20,
+    "pokemon-pets.rewards.pushCandy": 10,
+    "pokemon-pets.rewards.pushFriendship": 100,
+    "pokemon-pets.rewards.savesPerFriendship": 1
+}
