@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#externo {
+    height: 100px;
+    width: 400px;
+    background-color: crimson;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+main{
+    height: 100vh;
+    background-color: rgb(131, 125, 128);
+}
+
+div > h1{
+    color: darkcyan;
+}
+
+span + h1 {
+    color: brown;
+}
+
+h1 ~ p {
+    color:coral;
+}
+
+.btn {
+    width: 88px;
+    padding: 12px;
+    background-color: forestgreen;
+    border-radius: 12px;
+}
+
+.btn:hover {
+    background-color: dimgray;
+    cursor: pointer;
+}
